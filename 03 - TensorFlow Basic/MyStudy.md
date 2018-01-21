@@ -33,6 +33,7 @@
     - TensorFlow 문서는 tensor 차원을 표현할 때 세 가지 기호를 사용한다. rank, shape, 차원수. 아래 표는 그 세 가지의 관계를 보여준다
     - Shape는 Python 리스트 / 정수형 튜플 또는 TensorShape class로 표현 할 수 있다.
     - 셰이프는 각 차원의 요소개수로, 텐서의 구조를 설명해준다.
+    
 |Rank |Shape              |Dimension number|Example                                 |
 |-----|-------------------|----------------|----------------------------------------|
 |0    |[]                 |0-D             |A 0-D tensor. A scalar.                 |
