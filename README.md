@@ -1,21 +1,25 @@
 # DeepLearning_GolbinHacker
 
-## °ñºó ÇØÄ¿ÀÇ 3ºĞ µö·¯´× ÅÙ¼­ÇÃ·Î¸À
-- °³ÀÎ°øºÎ ¹× ¿¬½À
-- °³¹ß È¯°æ
+## ê³¨ë¹ˆ í•´ì»¤ì˜ 3ë¶„ ë”¥ëŸ¬ë‹ í…ì„œí”Œë¡œë§›
+- ê°œì¸ê³µë¶€ ë° ì—°ìŠµ
+- ê°œë°œ í™˜ê²½
     - OS : Windows 10
     - IDE : Anaconda 3
     - Language : Python 3 (3.6.4)
     - Jupyter Notebook
 
-## Âü°íÀÚ·á
+## ì°¸ê³ ìë£Œ
 
-### ±êÇãºê
+### í…ì„œí”Œë¡œìš°
+- [tensorflowkoreaí…ì„œí”Œë¡œìš° ë¬¸ì„œ í•œê¸€ ë²ˆì—­ë³¸](https://www.gitbook.com/book/tensorflowkorea/tensorflow-kr/details)
 
-1. [°ñºóÇØÄ¿ÀÇ 3ºĞ µö·¯´× ±êÇãºê](https://github.com/golbin/TensorFlow-Tutorials)
-2. [ºñÀü°ø»ıµµ ÇÑ´«¿¡ ÀÌÇØÇÏ´Â µö·¯´× ÀÚ·á¸ğÀ½](https://github.com/YBIGTA/Deep_learning)
+
+### ê¹ƒí—ˆë¸Œ
+
+1. [ê³¨ë¹ˆí•´ì»¤ì˜ 3ë¶„ ë”¥ëŸ¬ë‹ ê¹ƒí—ˆë¸Œ](https://github.com/golbin/TensorFlow-Tutorials)
+2. [ë¹„ì „ê³µìƒë„ í•œëˆˆì— ì´í•´í•˜ëŠ” ë”¥ëŸ¬ë‹ ìë£Œëª¨ìŒ](https://github.com/YBIGTA/Deep_learning)
 3. [Effective TensorFlow](https://github.com/golbin/EffectiveTensorflow#basics)
 
-### ºí·Î±×/Ä«Æä
+### ë¸”ë¡œê·¸/ì¹´í˜
 
-1. [ÅÙ¼­ ÇÃ·Î¿ì ºí·Î±× (Tensor = Blog)](https://tensorflow.blog/2017/05/10/tf%EC%9D%98-%ED%85%90%EC%84%9C%EC%99%80-%EC%83%81%EC%88%98-%EB%B3%80%EC%88%98-%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4%ED%99%80%EB%8D%94/)
+1. [í…ì„œ í”Œë¡œìš° ë¸”ë¡œê·¸ (Tensor = Blog)](https://tensorflow.blog/2017/05/10/tf%EC%9D%98-%ED%85%90%EC%84%9C%EC%99%80-%EC%83%81%EC%88%98-%EB%B3%80%EC%88%98-%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4%ED%99%80%EB%8D%94/)
