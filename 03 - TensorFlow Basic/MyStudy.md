@@ -17,6 +17,16 @@
     t = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
     ```
     - rank 2인 tensor는 행렬, rank 1인 tensor는 벡터로 생각할 수 있다. rank 2인 tensor는 t[i, j] 형식으로 원소에 접근할 수 있다. rank 3인 tensor는 t[i, j, k] 형식으로 원소를 지정할 수 있다.
+    
+    Rank	Math entity	Python example
+0	Scalar (magnitude only)	s = 483
+1	Vector (magnitude and direction)	v = [1.1, 2.2, 3.3]
+2	Matrix (table of numbers)	m = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
+3	3-Tensor (cube of numbers)	t = [[[2], [4], [6]], [[8], [10], [12]], [[14], [16], [18]]]
+n	n-Tensor (you get the idea)	....
+    
+    
+    
 - **셰이프(_Shape_)**
 
 2. 플레이스홀더
